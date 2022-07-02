@@ -1,4 +1,4 @@
-# Gesture_Recognition
+# Gesture Recognition Using Raspberry Pi
 ## 📌 Main Aim 
 In this project various gestures and standard sign languages were recognized using OpenCV and Mediapipe libraries of Machine Learning recognition algorithm and they were implemented on the Raspberry Pi's Raspbian OS.
 
